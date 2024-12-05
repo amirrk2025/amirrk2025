@@ -3,4 +3,4 @@
 - 🕸  see my Resume and portfolio at 
 - 🌱 I’m currently learning AI
 - 💞️ I'm looking to collaborate on Web Development projects
-- 📫 you can contact me at amirmohammadakbariaflaki@gmail.com
+- 📫 you can contact me at amirmohammad.akbari.rk2025@gmail.com
