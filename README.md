@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-💻Full-stack Web Developer<br>🌱 I’m currently learning AI<br>👯 I’m looking to collaborate on web developments projects<br>🕸 see my Resume and portfolio at https://amirrk2025.github.io/portfolioo/<br>📫 you can contact me at amirmohammad.akbari.rk2025@gmail.com<br>
+💻Full-stack Web Developer<br>🌱 I’m currently learning AI<br>👯 I’m looking to collaborate on web developments projects<br>🕸 see my Resume and portfolio at https://amirrk2025.github.io/New-portfolio/<br>📫 you can contact me at amirmohammad.akbari.rk2025@gmail.com<br>
 
 
 ## 🌐 Socials:
